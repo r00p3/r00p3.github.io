@@ -20,8 +20,9 @@ h2 {
 
 div {
 	background-color:yellow;
-	height: 20px;
+	height: 100px;
 	width: 100px;
+	text-align: center;
 }
 
 
