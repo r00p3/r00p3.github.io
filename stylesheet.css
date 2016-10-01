@@ -8,15 +8,15 @@ h1 {
 	font-size: 2em;
 	font-family: cursive;
 }
+p {
+	color: yellow; 
+}
 
 h2 {
 	background-color: cc0000;
 	color: yellow;
-	font-family: Arial;
+	font-family: cursive;
 }
 
-p {
-	color: yellow; 
-}
 
 
